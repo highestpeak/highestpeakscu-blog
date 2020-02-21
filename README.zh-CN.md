@@ -10,7 +10,7 @@ highestpeakscu-blog 是一个有四川大学某位程序员编写的博客站点
 
 # Preview
 
-![]()
+![](https://raw.githubusercontent.com/highestpeak/highestpeakscu-blog/master/highestpeak-blog.gif)
 
 # Build & Deploy
 

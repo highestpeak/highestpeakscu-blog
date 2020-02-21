@@ -10,7 +10,7 @@ Hope this project can help you. I'm here for the first time.
 
 # Preview
 
-![]()
+![](https://raw.githubusercontent.com/highestpeak/highestpeakscu-blog/master/highestpeak-blog.gif)
 
 # Build & Deploy
 
