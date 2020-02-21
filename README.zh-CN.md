@@ -1,4 +1,4 @@
-[简体中文]()|[English]()
+简体中文|[English](https://github.com/highestpeak/highestpeakscu-blog)
 
 # Introduction
 
