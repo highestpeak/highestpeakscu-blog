@@ -92,7 +92,7 @@ sudo nginx -t
 配置Nginx，安装了Nginx之后，打开/etc/nginx/conf.d/default.conf，修改默认的default.conf
 下面这个配置可以在一个文件内重复写多次，即可以为一台服务器一个端口匹配多个server_name
 
-``` json
+``` txt
 server {
     listen 80;
     server_name localhost;
