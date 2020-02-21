@@ -1,4 +1,4 @@
-[简体中文]()|[English]()
+[简体中文](https://github.com/highestpeak/highestpeakscu-blog/blob/master/README.zh-CN.md)|English
 
 # Introduction
 
@@ -100,7 +100,7 @@ sudo nginx -t
 Configure Nginx. After installing Nginx, open /etc/nginx/conf.d/default.conf and modify the default.conf.
 The following configuration can be written multiple times in a file, that is, multiple server_names can be matched for a server and a port.
 
-``` json
+``` txt
 server {
     listen 80;
     server_name localhost;
